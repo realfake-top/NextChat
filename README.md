@@ -1,5 +1,3 @@
-<div align="center">
-
 <a href='https://nextchat.club'>
   <img src="https://github.com/user-attachments/assets/83bdcc07-ae5e-4954-a53a-ac151ba6ccf3" width="1000" alt="icon"/>
 </a>
@@ -7,7 +5,6 @@
 ###  推荐 Railway 部署
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.com?referralCode=realfake-top)
-
 
 ```
 OPENAI_API_KEY="sk-xxx"
@@ -18,7 +15,6 @@ DISABLE_GPT4="false"
 NEXTAUTH_SECRET="d1ByiAwUvFfCq4/xyxCfsMM1zt6lONUTNULv6K9fXcQ="
 NEXTAUTH_URL="https://xxx.up.railway.app"
 ```
-
 
 ## LICENSE
 
