@@ -313,7 +313,7 @@ const cn = {
         Title: "",
         Label: "",
         SubTitle:"",
-       
+       ChatNow: "",
       },
       AccessCode: {
         Title: "访问密码",
