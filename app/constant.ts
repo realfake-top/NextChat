@@ -461,7 +461,7 @@ export const KnowledgeCutOffDate: Record<string, string> = {
   "deepseek-coder": "2024-07",
 };
 
-export const DEFAULT_TTS_ENGINE = "OpenAI-TTS";
+export const DEFAULT_TTS_ENGINE = "Edge-TTS";
 export const DEFAULT_TTS_ENGINES = ["OpenAI-TTS", "Edge-TTS"];
 export const DEFAULT_TTS_MODEL = "tts-1";
 export const DEFAULT_TTS_VOICE = "alloy";
@@ -918,5 +918,5 @@ export const internalAllowedWebDavEndpoints = [
 
 export const DEFAULT_GA_ID = "G-89WN60ZK2E";
 
-export const SAAS_CHAT_URL = "https://nextchat.club";
-export const SAAS_CHAT_UTM_URL = "https://nextchat.club?utm=github";
+export const SAAS_CHAT_URL = "https://poixe.com/i/realfake";
+export const SAAS_CHAT_UTM_URL = "https://poixe.com/i/realfake";
